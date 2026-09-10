@@ -1,0 +1,24 @@
+{
+  "base_url": "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/Clash",
+  "domain": {
+    "speedtest": ["domainset/speedtest.txt"],
+    "cdn": ["domainset/cdn.txt", "non_ip/cdn.txt"],
+    "stream": ["non_ip/stream.txt"],
+    "telegram": ["non_ip/telegram.txt"],
+    "apple": ["domainset/apple_cdn.txt", "non_ip/apple_cn.txt", "non_ip/apple_services.txt"],
+    "microsoft": ["non_ip/microsoft_cdn.txt", "non_ip/microsoft.txt"],
+    "game-download": ["domainset/game-download.txt"],
+    "download": ["domainset/download.txt", "non_ip/download.txt"],
+    "ai": ["non_ip/ai.txt"],
+    "global": ["non_ip/global.txt"],
+    "domestic": ["non_ip/domestic.txt"],
+    "direct": ["non_ip/direct.txt"],
+    "lan": ["non_ip/lan.txt"]
+  },
+  "ip": {
+    "telegram": ["ip/telegram.txt"],
+    "stream": ["ip/stream.txt"],
+    "ai": ["ip/ai.txt"],
+    "lan": ["ip/lan.txt"]
+  }
+}
