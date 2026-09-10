@@ -98,7 +98,20 @@ def build(kind: str, config: dict, root: Path, logger: logging.Logger) -> None:
         destination = output / f"{category}.txt"
         destination.write_text("\n".join(sorted(values, key=lambda item: (item.lstrip("+."), item))) + "\n", encoding="utf-8")
         classical_destination = classical_output / f"{category}.txt"
-        classical_destination.write_text("\n".join(sorted(classical_values)) + ("\n" if classical_values else ""), encoding="utf-8")
+        # Domain and IP builds share this directory. Merge same-named
+        # categories instead of letting the later build overwrite the first.
+        existing_classical = set()
+        if classical_destination.exists():
+            existing_classical = {
+                line.strip()
+                for line in classical_destination.read_text(encoding="utf-8").splitlines()
+                if line.strip()
+            }
+        classical_values.update(existing_classical)
+        classical_destination.write_text(
+            "\n".join(sorted(classical_values)) + ("\n" if classical_values else ""),
+            encoding="utf-8",
+        )
         logger.info("%s/%s: %d rules", kind, category, len(values))
         logger.info("classical/%s: %d rules", category, len(classical_values))
 
@@ -111,6 +124,12 @@ def main() -> int:
     logging.basicConfig(level=logging.INFO, format="%(levelname)s %(message)s")
     root = Path(args.root).resolve()
     config = json.loads((root / args.config).read_text(encoding="utf-8"))
+    classical_output = root / "output" / "classical"
+    classical_output.mkdir(parents=True, exist_ok=True)
+    # Remove stale generated files once per build. The two build passes below
+    # then merge same-named domain and IP classical categories.
+    for stale_file in classical_output.glob("*.txt"):
+        stale_file.unlink()
     build("domain", config, root, logging.getLogger("domain"))
     build("ip", config, root, logging.getLogger("ip"))
     return 0
