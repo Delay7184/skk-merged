@@ -26,12 +26,13 @@ CIDR_RE = re.compile(r"^[0-9a-fA-F:.]+/[0-9]{1,3}$")
 def fetch(url: str) -> str:
     request = urllib.request.Request(url, headers={"User-Agent": "skk-merged-rules/1.0"})
     with urllib.request.urlopen(request, timeout=60) as response:
-        return response.read().decode("utf-8-sig")
+        # Keep the downloaded text intact when it is copied to data/original.
+        return response.read().decode("utf-8")
 
 
 def lines(text: str):
     for number, raw in enumerate(text.splitlines(), 1):
-        value = raw.strip()
+        value = raw.strip().lstrip("\ufeff")
         if not value or value.startswith(("#", ";", "//")):
             continue
         yield number, value
@@ -68,9 +69,13 @@ def normalize_ip(value: str, source: str, line_no: int, logger: logging.Logger) 
 def build(kind: str, config: dict, root: Path, logger: logging.Logger) -> None:
     base_url = config["base_url"].rstrip("/")
     output = root / "data" / kind
+    classical_output = root / "output" / "classical"
+    original_output = root / "data" / "original"
     output.mkdir(parents=True, exist_ok=True)
+    classical_output.mkdir(parents=True, exist_ok=True)
     for category, sources in config[kind].items():
         values: set[str] = set()
+        classical_values: set[str] = set()
         for relative in sources:
             url = f"{base_url}/{relative}"
             try:
@@ -78,15 +83,24 @@ def build(kind: str, config: dict, root: Path, logger: logging.Logger) -> None:
             except (urllib.error.URLError, TimeoutError) as exc:
                 logger.error("failed to fetch %s: %s", url, exc)
                 raise
+            original_file = original_output / relative
+            original_file.parent.mkdir(parents=True, exist_ok=True)
+            original_file.write_text(payload, encoding="utf-8")
+            logger.info("preserved original: %s", original_file.relative_to(root))
             for number, value in lines(payload):
                 normalized = (normalize_domain if kind == "domain" else normalize_ip)(
                     value, relative, number, logger
                 )
                 if normalized:
                     values.add(normalized)
+                else:
+                    classical_values.add(value)
         destination = output / f"{category}.txt"
         destination.write_text("\n".join(sorted(values, key=lambda item: (item.lstrip("+."), item))) + "\n", encoding="utf-8")
+        classical_destination = classical_output / f"{category}.txt"
+        classical_destination.write_text("\n".join(sorted(classical_values)) + ("\n" if classical_values else ""), encoding="utf-8")
         logger.info("%s/%s: %d rules", kind, category, len(values))
+        logger.info("classical/%s: %d rules", category, len(classical_values))
 
 
 def main() -> int:
