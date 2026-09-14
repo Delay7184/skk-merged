@@ -346,6 +346,7 @@ assets.polarbyte.com
 assets.poool.fr
 assets.porndig.com
 assets.positional-bucket.com
+assets.production.linktr.ee
 assets.prowritingaid.com
 assets.pscp.tv
 assets.queue-it.net
@@ -464,6 +465,7 @@ awsimgsrc.dmm.com
 +.awxcdn.com
 +.ax1x.com
 axiecdn.axieinfinity.com
++.axiom-cdn.io
 +.axis-cdn.net
 az700632.vo.msecnd.net
 +.azurestaticapps.net
@@ -1460,6 +1462,7 @@ code.upscope.io
 +.codeberg.page
 +.codeforces.org
 +.codepenassets.com
+coin-images.coingecko.com
 +.colliderimages.com
 +.combinatronics.io
 comm.res.easebar.com
@@ -3427,6 +3430,7 @@ resources.allstate.com
 resources.chessbase.com
 resources.digital-cloud.medallia.com
 resources.help.salesforce.com
+resources.redbull.tv
 resources.whatwg.org
 rest.happierleads.com
 reviews-badge.capterra.com
@@ -3943,6 +3947,7 @@ static.izanmei.icu
 static.j51.net
 static.javhd.com
 static.jsbin.com
+static.jup.ag
 static.k2s.cc
 static.killedbygoogle.com
 static.klaviyo.com
@@ -4257,10 +4262,12 @@ themes.hibootstrap.com
 +.thesourcemediaassets.com
 +.thirdwebcdn.com
 +.thisiscdn.com
+thumb.wikimedia.org
 thumbnail.missav.com
 thumbnailer.mixcloud.com
 thumbnails.applegamingwiki.com
 thumbnails.cbsig.net
+thumbnails.padre.gg
 thumbor.4gamers.com.tw
 thumbor.forbes.com
 thumbs.onlyfans.com
@@ -4402,6 +4409,7 @@ ubistatic2-a.ubisoft.com
 +.ucarecdn.com
 udata.namespace.so
 +.udify.app
+ugc.production.linktr.ee
 uhf.microsoft.com
 ui-cdn.digitalocean-ui.com
 ui-cdn.digitalocean.com

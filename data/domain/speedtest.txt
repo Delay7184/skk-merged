@@ -623,6 +623,7 @@ seednet-tc1.seed.net.tw
 seednet-tn1.seed.net.tw
 seednet-ty1.seed.net.tw
 serv.qwistel.in
+serv8.a2jnetwork.in
 servidor.speedplay.com.br
 seveninternet.brsserver.com.br
 sfosj0096speedtestserver01.wiline.com
@@ -2008,6 +2009,7 @@ speedtest.netlen.com.tr
 speedtest.netlinkce.com.br
 speedtest.netone.nl
 speedtest.netplus.co.in
+speedtest.netpool.in
 speedtest.netrack.ru
 speedtest.netravo.com
 speedtest.nettvox.com
