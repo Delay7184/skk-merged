@@ -868,6 +868,7 @@ cdn.eu.contentful.com
 cdn.european-alternatives.eu
 cdn.evbstatic.com
 cdn.evgnet.com
+cdn.eye-able.com
 cdn.f5.com
 cdn.faire.com
 cdn.fastcomments.com
@@ -2309,6 +2310,7 @@ images.prismic.io
 images.profile.autodesk.com
 images.ptt.cc
 images.purevpn-tools.com
+images.radio-canada.ca
 images.rss.app
 images.samsung.com
 images.scalero.io
@@ -3603,6 +3605,7 @@ secure.beer7live.com
 secure.fanboy.co.nz
 secure.telegraph.co.uk
 +.seecdn.com
++.seecdn.net
 +.seeusercontent.com
 segapi.clerk.com
 segment.digitalocean.com
@@ -3991,6 +3994,7 @@ static.nrk.no
 static.nyse.com
 static.observablehq.com
 static.oklink.com
+static.okou.io
 static.okx.cab
 static.okx.com
 static.olelive.com
@@ -4378,7 +4382,6 @@ tracking.inflection.io
 +.trafficdeposit.com
 +.transcend-cdn.com
 trekcdnprod.azureedge.net
-+.tripcdn.com
 +.trustless-gateway.link
 truth.bahamut.com.tw
 +.ttcache.com
