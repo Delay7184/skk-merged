@@ -1800,6 +1800,7 @@ speedtest.itel.com
 speedtest.ixirhost.com
 speedtest.jackrabbitwireless.com
 speedtest.japanettelecom.com.br
+speedtest.jasmyrahnetworks.com
 speedtest.jbarbieri.net
 speedtest.jcnettelecom.com
 speedtest.jeebr.net
@@ -2397,6 +2398,7 @@ speedtest.vanciscloud.nl
 speedtest.vc.shawcable.net
 speedtest.vee.com.tw
 speedtest.velocitybroadband.co.in
+speedtest.velosonet.com.br
 speedtest.verimek.com
 speedtest.vermontel.net
 speedtest.verycloud.fr

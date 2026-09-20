@@ -935,6 +935,7 @@ cdn.imgchest.com
 +.cdn.imgeng.in
 +.cdn.imghaste.com
 cdn.infoq.com
+cdn.infrawire.net
 cdn.insightmediagroup.io
 cdn.inviter.co
 cdn.ionos.de
@@ -1241,6 +1242,7 @@ cdn1.hotmoza.tv
 cdn1.iconfinder.com
 cdn1.identitymind.com
 cdn1.plesk.com
+cdn1.singteldigital.com
 cdn1.stamped.io
 cdn1.suno.ai
 cdn1.sysgears.com
@@ -2647,6 +2649,7 @@ js-1-cdn.airdroid.com
 js-eu1.hsforms.net
 +.js-eu1.hubspot.com
 js-s3.quickcep.com
+js.arcgis.com
 js.assemblyexchange.com
 js.braintreegateway.com
 js.chargebee.com
@@ -4342,6 +4345,7 @@ tiles1.planet.com
 tiles2.mapiful.com
 tiles2.planet.com
 tiles3.planet.com
+tileserver.b10s.net
 tileserver.gnome.org
 tileserver.memomaps.de
 time-a.nist.gov
