@@ -2187,6 +2187,7 @@ image*.cloudokyo.cloud
 image-cdn.porndig.com
 image-forwarder.notaku.so
 image-stgus.samsung.com
+image-tc.galaxy.tf
 image-us.samsung.com
 image.acg.lol
 image.ap-mail.org
@@ -2284,6 +2285,7 @@ images.g2crowd.com
 images.github.media
 images.gog.com
 +.images.hentaicity.com
+images.hibob.com
 images.hothardware.com
 images.icon-icons.com
 images.indianexpress.com
@@ -2838,6 +2840,7 @@ media-cms.ayoba.me
 media-cms.onesignal.com
 media-hls.growcdnssedge.com
 +.media-imdb.com
+media-process.hibob.com
 media-s3-us-east-1.ceros.com
 +.media.amplience.net
 media.beehiiv.com
@@ -3176,6 +3179,7 @@ phishing.army
 +.phncdn.com
 +.photobucket.com
 +.photocdn.stream
+photos.flightaware.com
 photos5.appleinsider.com
 +.phprcdn.com
 pic-bstarstatic.akamaized.net
@@ -4316,6 +4320,7 @@ tiles-a.koordinates.com
 +.tiles-api.maps.komoot.net
 tiles-eu.stadiamaps.com
 tiles.arcgis.com
+tiles.flightaware.com
 +.tiles.freemap.sk
 tiles.gsj.jp
 tiles.immich.cloud
