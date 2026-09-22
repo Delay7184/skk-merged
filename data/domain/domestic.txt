@@ -661,6 +661,7 @@ ocsp2.globalsign.com
 +.realmemobile.com
 +.rednotecdn.com
 res.viayoo.com
++.rnote.com
 +.roblox.cn
 +.robloxdev.cn
 +.ronghub.com
