@@ -534,6 +534,7 @@ ookla.siditelecom-isp.com.br
 ookla.slewes.ch
 ookla.slimnet.com.br
 ookla.snt.utwente.nl
+ookla.soc.atharva.co.id
 ookla.speedking.in
 ookla.speedtest.cnix.cn
 +.ookla.surfinternet.com
@@ -1066,6 +1067,7 @@ speedtest-de.pq.hosting
 speedtest-de.unihost.com
 speedtest-de.webdade.com
 speedtest-dfw.dish-wireless.com
+speedtest-dsm.cowboyhosting.com
 speedtest-east.eastlink.ca
 speedtest-eastburwood.optusnet.com.au
 speedtest-ebw.optusnet.com.au
