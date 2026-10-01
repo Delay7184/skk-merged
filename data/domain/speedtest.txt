@@ -2137,6 +2137,7 @@ speedtest.pr.citywest.ca
 speedtest.premieronline.net
 speedtest.previder.net
 speedtest.princemj.net
+speedtest.procloud.ru
 speedtest.progetto8.net
 speedtest.prometeus.net
 speedtest.pronetsuaconexao.com
@@ -2770,6 +2771,7 @@ speedtestboca.gethotwired.com
 speedtestbti.angelbroadband.com
 speedtestce.vtal.net.br
 speedtestchd.netplus.co.in
+speedtestchi.cytranet.net
 +.speedtestcustom.com
 speedtestd.kpn.com
 speedtestda.fiberfasthomes.com
