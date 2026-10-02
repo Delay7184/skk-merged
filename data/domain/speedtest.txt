@@ -677,6 +677,7 @@ sp.yakshtel.com
 sp01.rbfibra.net.br
 sp1-de.delska.com
 sp1-mum.youbroadband.in
+sp1-nl.delska.com
 sp1.adnbroadband.com
 sp1.alcort.es
 sp1.angelbroadband.com
@@ -1376,6 +1377,7 @@ speedtest.antisatelecom.es
 speedtest.aoter.net
 speedtest.apexbroadband.in
 speedtest.apnet-rr.com.br
+speedtest.apnetbv.com.br
 speedtest.apnic.net
 +.speedtest.aptg.com.tw
 speedtest.aquiss.net
