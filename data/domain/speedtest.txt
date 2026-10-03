@@ -1067,6 +1067,7 @@ speedtest-dcy.ideatek.com
 speedtest-de.pq.hosting
 speedtest-de.unihost.com
 speedtest-de.webdade.com
+speedtest-de1.expresshost.cloud
 speedtest-dfw.dish-wireless.com
 speedtest-dsm.cowboyhosting.com
 speedtest-east.eastlink.ca
@@ -1413,6 +1414,7 @@ speedtest.auratelecom.com.br
 speedtest.auriganet.in
 speedtest.axclusive.com.sg
 speedtest.b2.mhn.cloud
+speedtest.b3online.es
 speedtest.bainbridgefiber.com
 speedtest.bakcom.in
 speedtest.barcconnects.net
@@ -2218,6 +2220,7 @@ speedtest.serversistemleri.com
 speedtest.sesfiber.com.br
 speedtest.sewan.es
 speedtest.sewan.fr
++.speedtest.sg
 speedtest.sg.aixxycode.id
 speedtest.sg.fdcservers.net
 speedtest.sg.hsp.net.id
