@@ -783,6 +783,7 @@ spdfra.cndd.net
 spdms.mytpn.net
 spdms.twincher.ru
 spdookla10g0201.noanet.net
+spdt.lanxus.com.br
 spdt.voenetworks.com
 spdtes.phoenix.net.tr
 spdtest.omegatelecom.net.br
@@ -809,6 +810,7 @@ speed-syd.gigacomm.net.au
 speed-test.ornethd.net
 speed-test.ukservers.com
 speed.ade.aussiebroadband.com.au
+speed.airmaxbroadband.com
 speed.airwavesinternet.com
 speed.alliedcorporation.co.in
 speed.alsalamnet.net
@@ -1679,6 +1681,7 @@ speedtest.frontlineinternetservices.com
 speedtest.frontlinetechnologies.in
 speedtest.ftmojave.net
 speedtest.ftth.wien
+speedtest.g5nortetelecom.com.br
 speedtest.gabysantos.com.br
 speedtest.galaxynet.in
 speedtest.gamedoping.com
