@@ -78,6 +78,7 @@
 +.apkpure.com
 +.apkpure.net
 +.apnews.com
++.approveit.today
 +.appspot.com
 +.aptoide.com
 +.arc.net
@@ -1027,6 +1028,7 @@ store.ui.com.cn
 +.surfshark.com
 +.surfsharkdns.com
 +.surge-activation.com
++.surveymonkey.com
 +.sx
 +.synergyse.com
 +.sysctl-explorer.net
@@ -1129,6 +1131,7 @@ store.ui.com.cn
 +.v2ray.com
 +.va
 +.vanityfair.com
++.vanta.com
 +.vercel.app
 +.vercel.com
 +.vercel.live
