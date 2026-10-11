@@ -209,6 +209,7 @@ hl-speed.twmbroadband.com
 hmb-tc.wsqm.telekom-dienste.de
 hmc-speedtest.northstate.net
 hoshiyomi.ratatoskr.org
+hoyalclub.synology.me
 hs13.aratwifi.com.tr
 hs14.aratwifi.com.tr
 hv1.juce.ca
@@ -1254,6 +1255,7 @@ speedtest-sin.melbicom.net
 speedtest-sjc.acreto.net
 speedtest-sjc.dish-wireless.com
 speedtest-sjc.sectrify.com
+speedtest-sjdm.newworld.ph
 speedtest-sossano.wifiweb.it
 speedtest-srv-a.homeworks.org
 speedtest-srv01.tut.net
