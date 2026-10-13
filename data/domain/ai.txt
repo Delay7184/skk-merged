@@ -33,6 +33,7 @@ gateway.ai.cloudflare.com
 +.generativelanguage.googleapis.com
 +.grok.com
 +.groq.com
+inference.codeium.com
 +.jasper.ai
 jules.google.com
 +.makersuite.google.com
@@ -46,5 +47,7 @@ openrouter.ai
 +.poe.com
 +.proactivebackend-pa.googleapis.com
 robinfrontend-pa.googleapis.com
+server.codeium.com
+server.self-serve.windsurf.com
 +.sora.com
 +.x.ai
