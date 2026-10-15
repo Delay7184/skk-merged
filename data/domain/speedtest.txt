@@ -463,6 +463,7 @@ ookla.amazoniasat-isp.com.br
 ookla.ams.atharva.co.id
 ookla.apuacom.it
 ookla.araujotelecom.com.br
+ookla.argsment.com
 ookla.as400442.net
 ookla.b2.neptune.net.au
 ookla.ber-01.testpub.telefonica.de
