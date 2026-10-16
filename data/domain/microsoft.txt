@@ -27,7 +27,6 @@
 +.ctldl.windowsupdate.com
 +.dl.delivery.mp.microsoft.com
 +.docs.com
-+.download.microsoft.com
 +.download.visualstudio.microsoft.com
 +.download.windowsupdate.com
 +.dreamspark.download.prss.microsoft.com
