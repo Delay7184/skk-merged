@@ -113,6 +113,7 @@ de-ffm1-ookla-01.wemacom.net
 de-fra2-lg1.level66.network
 de-lg.h2.nexus
 de-speedtest.digitalexample.com
+de.riospeed.com
 de.st.spacecore.pro
 debit.psrv.ch
 dehradun.blueskynetwork.in
@@ -429,6 +430,8 @@ ookla-atl.gigsouth.com
 ookla-autazes.amazoniasat-isp.com.br
 ookla-ber.evolushost.com
 ookla-crw.wvnet.edu
+ookla-dc3.services.proxad.net
+ookla-dc5.services.proxad.net
 ookla-dfw.gigsouth.com
 ookla-estepona.aerioncloud.com
 ookla-in.mercuryfiber.com
@@ -437,12 +440,14 @@ ookla-ks.mercuryfiber.com
 ookla-lax.extentit.com
 ookla-london.briantbroadband.com
 ookla-london01.tropicalgames.net
+ookla-lyo.services.proxad.net
 ookla-mgw.wvnet.edu
 ookla-mi.tech.tiscali.it
 ookla-mi01.nexim.it
 ookla-mia.gigsouth.com
 ookla-mil.seeweb.it
 ookla-mispeed.rackgenius.com
+ookla-mrs.services.proxad.net
 ookla-rm.tech.tiscali.it
 ookla-server.vim.web.tr
 ookla-speedtest-central.hgconair.hgc.com.hk
@@ -3428,6 +3433,7 @@ wybo-speedtest.northstate.net
 yjl-speed.twmbroadband.com
 yk-netspeed.nwtel.ca
 yms-speed.kbro.com.tw
+yyc-speedtest.xeronetworks.co.uk
 yyc-speedtest.xplore.ca
 yyc-speedtest02.xplore.ca
 yyz-speedtest.xplore.ca
