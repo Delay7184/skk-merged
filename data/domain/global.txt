@@ -768,6 +768,7 @@ news.ycombinator.com
 +.nordvpn.com
 +.note.com
 +.notepad-plus-plus.org
++.notion.com
 +.notion.site
 +.notion.so
 +.now.com
