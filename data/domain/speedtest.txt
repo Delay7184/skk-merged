@@ -605,6 +605,7 @@ puteaux3.d2m.c2d.liveservices.fr
 qld-speedtest.spirit.com.au
 qoeookla-mimi-01.sys.comcast.net
 qoeookla-ncst-01.sys.comcast.net
+qoeookla-rmnd-01.sys.comcast.net
 qspt.technofiber.net
 radnc-speedtest-ookla-01.st.charter.com
 ran-r450-speedtest.metrocomm.com
@@ -3211,6 +3212,7 @@ sulfur.burlingtontelecom.net
 sunmobile.hkspeedtest.com
 suntechspeedtest.com
 sv-ookla.geolinks.com
+syd.speedtest.pttnz.net
 sydgs2speed4.wireline.com.au
 sydspeedtest.rackdog.com
 sydspeedtest.solitary.net.au
