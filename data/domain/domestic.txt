@@ -112,6 +112,7 @@ acg.tv
 +.aliyundrive.com
 +.aliyundrive.net
 +.amap.com
++.amemv.com
 +.anjuke.com
 +.anticheatexpert.com
 +.antpcdn.com
