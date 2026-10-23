@@ -464,6 +464,7 @@ ookla.a1.neptune.net.au
 ookla.a56.as6453.net
 ookla.aeq.as6453.net
 ookla.alcloud.com.br
+ookla.alida.it
 ookla.amazoniasat-isp.com.br
 ookla.ams.atharva.co.id
 ookla.apuacom.it
@@ -586,6 +587,7 @@ pathsalaspeedtest.ngcbroadband.com
 pauseq4vost1.datamossa.cloud
 perf-01.ixn.as42689.net
 perf.keyyo.net
+perf1.moji1.sapi.net
 phc-speed.twmbroadband.com
 phl01.screenshot.download
 phlph0001speedtestserver02.wiline.com
@@ -1185,6 +1187,7 @@ speedtest-mum.froze.in
 speedtest-mumbai.scify.co.in
 speedtest-naw.pr-link.at
 speedtest-net-fra.dispaisy.systems
+speedtest-net.hyprnode.de
 speedtest-net.mk.de
 speedtest-net.xjtlu.edu.cn
 speedtest-newcastle.optusnet.com.au
@@ -3334,6 +3337,7 @@ tsdvuspeedtest01p.allstream.com
 tul-speedtest.onenet.net
 turknet16.residential.tr
 two.speed.airc.it
+tx.speedtest.openinfra.com
 txdllsspeedtest01.mybluepeak.net
 txg-speedtest.infinirc.com
 ty-bgp-speedtest.nearoute.io
