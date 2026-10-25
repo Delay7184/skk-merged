@@ -508,6 +508,7 @@ ookla.kues-data.de
 ookla.la.ca.sharktech.net
 ookla.lanetcie.net
 ookla.ldn.as6453.net
+ookla.lodestarnetworks.co.uk
 ookla.lunoxia.net
 ookla.m3h.as6453.net
 ookla.mbspeed.net
@@ -816,6 +817,7 @@ speed-miss.systemlifeline.com
 speed-mix.dimensione.com
 speed-mix.dispaisy.systems
 speed-oak.systemlifeline.com
+speed-pd.dispaisy.systems
 speed-rm.dimensione.com
 speed-server1.summit-broadband.com
 speed-server2.summit-broadband.com
@@ -983,6 +985,7 @@ speed4.snap.net.nz
 speedam.wsp.net.br
 speedapi.race.com
 speedash.phoenixnap.com
+speedbng.n-tel.in
 speedbodrum.fizynet.com.tr
 speedbursa.lodosnet.com
 speedcheck.liwest.at
@@ -2366,6 +2369,7 @@ speedtest.thn.lon.network.as201838.net
 speedtest.thn.uk.syntura.io
 speedtest.three.com.hk
 speedtest.thryve.com.au
+speedtest.thyrakles.de
 speedtest.tierpoint.net
 speedtest.tigo.co.cr
 speedtest.tigo.cr

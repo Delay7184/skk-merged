@@ -2213,6 +2213,7 @@ image.discovery.indazn.com
 image.dooo.ng
 image.email.microsoftemail.com
 image.freepik.com
+image.gameapps.hk
 image.goat.com
 image.gyutto.com
 image.gyutto.jp
@@ -4096,6 +4097,7 @@ static.touhoudb.com
 static.tp-link.com
 static.tradingview.com
 static.tronscan.org
+static.truemed.com
 static.tryprofound.com
 static.tumblr.com
 static.tvtropes.org
