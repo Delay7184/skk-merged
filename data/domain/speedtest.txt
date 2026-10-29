@@ -1034,6 +1034,7 @@ speedtest-1.manchester.network.as212655.net
 speedtest-1.netw.fr
 speedtest-1.somvera.cat
 speedtest-2.hynetwifi.it
+speedtest-34-1g.mustafasevinc.com.tr
 speedtest-6.aebc.com
 speedtest-ad-1.zoominternet.net
 speedtest-adelaide.optusnet.com.au
@@ -1845,6 +1846,7 @@ speedtest.japanettelecom.com.br
 speedtest.jasmyrahnetworks.com
 speedtest.jbarbieri.net
 speedtest.jcnettelecom.com
+speedtest.jdtelecom.com.br
 speedtest.jeebr.net
 speedtest.jetair.net.in
 speedtest.jetspeed.com.br
