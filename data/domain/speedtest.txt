@@ -1760,6 +1760,7 @@ speedtest.heartofiowa.coop
 speedtest.hep.gg
 speedtest.herza.cloud
 speedtest.heuer-und-sack.de
+speedtest.hh.addix.net
 speedtest.hiboonetworks.com
 +.speedtest.highnet.com
 speedtest.hivedatacenter.com
