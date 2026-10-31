@@ -777,6 +777,7 @@ news.ycombinator.com
 +.npm.io
 +.npmjs.com
 +.npmjs.org
++.npmx.dev
 +.npr.org
 +.nsfwr34.com
 +.nssurge.com
