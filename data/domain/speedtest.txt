@@ -906,6 +906,7 @@ speed.newclicktelecom.com.br
 speed.newmarket.telmax.ca
 speed.nutelecom.com
 speed.onlinedersm.xyz
+speed.open.ad.jp
 speed.per.aussiebroadband.com.au
 +.speed.pfm.gg
 speed.rikanet.com.br
@@ -1826,6 +1827,7 @@ speedtest.inoc.net
 speedtest.inovewifi.com
 speedtest.inovewifi.com.br
 speedtest.instantsupport.co.in
+speedtest.interligpro.com.br
 speedtest.internet.one
 speedtest.internetbolaget.nu
 speedtest.internetsubway.com
