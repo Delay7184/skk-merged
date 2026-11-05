@@ -168,6 +168,7 @@ fl.speedtest.openinfra.com
 fla-st01.provenet.com.br
 fla.brisanet.eu.org
 fr-1.node.delton.ovh
+fra-de-008.xvperf.net
 fra-eq5-tptest1.31173.se
 fra.speedtest.csgobans.com
 fra1speedtest01.skylogic.com
@@ -570,6 +571,7 @@ ookla3.1und1-mobilfunk.de
 ooklaserver.aryk.fr
 +.ooklaserver.net
 ooklaserver1-del1.skymaxbroadband.com
+ooklaspdtstsvr.zitel.com
 ooklaspeed.statenet.in
 ooklaspeed.ttron.eu
 ooklaspeedtest-cdv.quebeccloud.com

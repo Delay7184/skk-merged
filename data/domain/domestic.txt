@@ -278,6 +278,7 @@ config.ubnt.com
 +.didistatic.com
 +.digicert.cn
 +.dingtalk.com
++.dittocdn.com
 +.dizzylab.net
 +.dl.bscstorage.net
 +.dl.delivery.mp.microsoft.com
