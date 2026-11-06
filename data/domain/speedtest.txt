@@ -1666,6 +1666,7 @@ speedtest.fastwebnetworks.in
 speedtest.fbc-tele.com
 speedtest.fc-fra4.as51202.net
 speedtest.fehmer.tech
+speedtest.fenixtelecom.net.br
 speedtest.fhsu.edu
 speedtest.fiber91.com
 speedtest.fibercast.net
@@ -2364,6 +2365,7 @@ speedtest.team-host.ru
 speedtest.techminds.ca
 speedtest.technobulut.com
 speedtest.technofiber.co
+speedtest.tefenet.com.br
 speedtest.teknosos.com.tr
 speedtest.telbo.net
 speedtest.telecablecr.com
