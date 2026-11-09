@@ -569,6 +569,7 @@ ookla2.eaglecable.net
 ookla2.mbspeed.net
 ookla3.1und1-mobilfunk.de
 ooklaserver.aryk.fr
+ooklaserver.asbn.va.ogital.net
 ooklaserver.dlls.tx.ogital.net
 +.ooklaserver.net
 ooklaserver1-del1.skymaxbroadband.com
@@ -1232,6 +1233,7 @@ speedtest-ookla-par.as62000.net
 speedtest-ookla-roc1.synoptek.com
 speedtest-ottawa.hivedatacenter.com
 speedtest-p1.interphone.com.au
+speedtest-par.flowhardware.ch
 speedtest-pd.flynet.it
 speedtest-pd.wifiweb.it
 speedtest-perth.launtel.net.au
@@ -1459,6 +1461,7 @@ speedtest.belmontcountygig.com
 speedtest.bemol.com.br
 speedtest.berlin.jonasdevries.de
 speedtest.beyondair.ca
+speedtest.bgsi.io
 +.speedtest.bhaukaalbaba.com
 speedtest.bigventuresmedia.com
 speedtest.binet.com.tr
@@ -3395,6 +3398,7 @@ velocidade.4wnet.com.br
 velocidade.amazoniatelecom.com.br
 velocidade.conectato.com.br
 velocidade.csrnetwork.com.br
+velocidade.danieltechpro.com
 velocidade.exytelecom.com.br
 velocidade.gcnetprovedor.com.br
 velocidade.giga7telecom.com.br
