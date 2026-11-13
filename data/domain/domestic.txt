@@ -116,6 +116,7 @@ acg.tv
 +.anjuke.com
 +.anticheatexpert.com
 +.antpcdn.com
+app.jianguoyun.com
 app.viayoo.com
 +.appsimg.com
 +.aqara.cn
@@ -239,6 +240,7 @@ cn.download.nvidia.com
 +.coding.net
 +.coloros.com
 +.com.cn
+comet.jianguoyun.com
 config.ubnt.com
 +.coolapk.com
 +.coolapkmarket.com
