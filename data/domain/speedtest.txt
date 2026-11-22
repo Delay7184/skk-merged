@@ -157,6 +157,7 @@ fast.blackbearfiber.com
 fast.kabi.tk
 fastme.ir
 fetkt1.seed.net.tw
+fetml1.seed.net.tw
 fetnt1.seed.net.tw
 fetsz1.seed.net.tw
 fetyl1.seed.net.tw
@@ -357,6 +358,7 @@ mobile.shunicomtest.com
 montsouris3.d2m.c2d.liveservices.fr
 mrutooklaspeed1.jioconnect.com
 msk-speedtest2.corbina.net
+msk.speedtest.reynard.cloud
 msk3.companion.t2.ru
 mspeedtest.linkceara.com.br
 mtcspeedtest.catskill.net
@@ -1649,6 +1651,7 @@ speedtest.ecfaccess.net
 speedtest.echonet.co.in
 speedtest.ecmnet.com.br
 speedtest.ed.shawcable.net
+speedtest.edgefox.net
 speedtest.ediscom.net
 speedtest.edv-kossmann.de
 speedtest.ehv.vodafone.nl
