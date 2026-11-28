@@ -46,6 +46,7 @@ apache.uvigo.es
 apache.website-solution.net
 api-updates.orbstack.dev
 app-updates.agilebits.com
+apt.armbian.com
 apt.izzysoft.de
 apt.tetaneutral.net
 apt.xpipe.io
@@ -73,6 +74,7 @@ autoupdate.termius.com
 +.autoupdatesvc.delivery.autodesk.com
 az764295.vo.msecnd.net
 b2.mcarchive.net
+beta.armbian.com
 bigfiles.virustotal.com
 binaries.prisma.sh
 blizzard.gcdn.cloudn.co.kr
@@ -188,7 +190,6 @@ cpan.ip-connect.vn.ua
 cpan.lagoon.nc
 cpan.lnx.sk
 cpan.metacpan.org
-cpan.mines-albi.fr
 cpan.mmgdesigns.com.ar
 cpan.pair.com
 cpan.pesat.net.id
@@ -582,7 +583,6 @@ ftp.kddilabs.jp
 ftp.kddlabs.co.jp
 ftp.klid.dk
 ftp.kr.freebsd.org
-ftp.ktug.org
 ftp.lanet.kr
 ftp.leg.uct.ac.za
 ftp.linux.cz
@@ -698,6 +698,7 @@ gimp.astra.in.ua
 gimp.ca
 gimp.ip-connect.info
 gimp.ip-connect.vn.ua
+github.armbian.com
 glua.ua.pt
 gnu.askapache.com
 gnu.c3sl.ufpr.br
@@ -1005,7 +1006,6 @@ mirror.lchost.net
 mirror.leitecastro.com
 +.mirror.letscloud.io
 mirror.level66.network
-mirror.library.ucy.ac.cy
 mirror.limda.net
 mirror.linkdata.com
 mirror.linux-ia64.org
@@ -1039,7 +1039,6 @@ mirror.nbtelecom.com.br
 mirror.neftm.ru
 mirror.neolabs.kz
 mirror.netcologne.de
-mirror.netcologne.de.org
 mirror.netone.nl
 mirror.netsite.dk
 mirror.netspace.net.au
@@ -1133,7 +1132,6 @@ mirror.techlabs.co.kr
 mirror.tejas101k.workers.dev
 mirror.telepoint.bg
 +.mirror.thegigabit.com
-mirror.thunderhosting.cloud
 mirror.timeweb.ru
 mirror.tngnet.com
 mirror.tochlab.net
@@ -1818,6 +1816,7 @@ s3.teckids.org
 +.s3.us-west-1.amazonaws.com
 +.s3.us-west-2.amazonaws.com
 +.s3.yandex.net
++.sbcmirror.org
 searchcpan.org
 security.debian.org
 security.ubuntu.com

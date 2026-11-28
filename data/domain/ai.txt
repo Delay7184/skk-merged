@@ -38,7 +38,6 @@ gateway.ai.cloudflare.com
 +.generativelanguage.googleapis.com
 +.grok.com
 +.groq.com
-inference.codeium.com
 +.jasper.ai
 jules.google.com
 +.makersuite.google.com

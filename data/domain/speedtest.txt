@@ -26,6 +26,7 @@ altoonaspeedtest.crowsnestbb.net
 alzenspeedtest.duckdns.org
 ams-eq6-tptest1.31173.se
 ams-speedtest.isp.htb.systems
+ams.speedtest.rustbanned.net
 amsspeed.sharktech.net
 amsterdam.getstreamhosting.com
 ant1speedtest.turktelekom.com.tr
@@ -559,6 +560,7 @@ ookla.snt.utwente.nl
 ookla.soc.atharva.co.id
 ookla.speedking.in
 ookla.speedtest.cnix.cn
+ookla.speedtest.freethought-internet.co.uk
 +.ookla.surfinternet.com
 ookla.surnet.com.tr
 ookla.svw.as6453.net
@@ -1303,6 +1305,7 @@ speedtest-sjc.dish-wireless.com
 speedtest-sjc.sectrify.com
 speedtest-sjdm.newworld.ph
 speedtest-sossano.wifiweb.it
+speedtest-spo.fibranort.com.br
 speedtest-srv-a.homeworks.org
 speedtest-srv01.tut.net
 speedtest-stf.megafon.ru
@@ -1355,6 +1358,7 @@ speedtest-zion.fireflyva.com
 speedtest-zl-1.zoominternet.net
 speedtest.0dayhost.com
 speedtest.100g.macarne.com
+speedtest.10gtelecomindia.com
 speedtest.139play.com
 speedtest.15.com.tw
 speedtest.23m.com
